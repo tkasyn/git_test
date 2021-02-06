@@ -20,7 +20,7 @@
 /**
  * An Array of day names starting with Sunday.
  * 
- * @example dayNames[0]
+ * @example dayNames[5]
  * @result 'Sunday'
  *
  * @name dayNames
